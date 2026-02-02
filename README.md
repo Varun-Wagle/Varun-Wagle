@@ -1,67 +1,83 @@
-# 👋 Hey, I'm Varun Wagle  
+# 👋 Hi, I’m Varun Wagle  
 
-🌱 **AI Enthusiast | Beginner Python Developer | Exploring the world of Generative AI**
+**AI Systems Builder | Applied Generative AI & Automation**
 
-I’m passionate about combining **AI, creativity, and code** to build meaningful projects that reflect both logic and imagination.  
-Currently learning, experimenting, and growing — one project at a time. 🚀  
-
----
-
-### 💡 About Me  
-- 🔍 Exploring **Generative AI**, **AI Image Generation**, and **Automation**  
-- 🧠 Learning and building with **Python**, **Streamlit**, and **APIs**  
-- 💬 Passionate about creativity, problem-solving, and lifelong learning  
-- 💼 **Open to new opportunities** in AI development, automation, or creative tech  
-- 🌍 Based in **India** | Available for remote collaboration  
+I design and build **production-oriented AI systems** focused on automation, decision intelligence, and real-world business workflows.  
+My work emphasizes **clarity, reliability, and explainable AI**, not demos or experiments.
 
 ---
 
-### 🧩 Featured Projects  
-
-#### 🧠 [Nuvora AI](#) *(In Progress)*
-A personal AI learning companion focused on **Study, Language, and Inspiration**, integrating **GROQ** and **Gemini APIs**.  
-> 💬 *"AI for personal learning and growth."*
-
-#### 📄 [Ask Your PDF](#)  
-A Streamlit app that lets you **upload, read, and interact with PDFs using AI**.  
-> 🧠 *Deployed version live on Streamlit Cloud.*
-
-#### 🕵️‍♂️ [Deepfake Detection App](#) *(In Progress)*  
-An Android app aimed at **detecting AI-generated faces** and **reporting harmful deepfakes** to protect users online.  
-> ⚡ *Mission: AI for good.*
-
-#### 💼 [ILKA Tech Chatbot](#)  
-A web-based AI chatbot that answers client queries and collects leads for a **sustainable tech company**.  
-> 🌿 *Practical AI integration for real businesses.*
-
-#### 🧾 [Smart Expense Tracker](#) *(In Progress)*
-A beginner-friendly **Python CLI project** that tracks and visualizes expenses with CSV and Matplotlib.  
-> 💻 *From console to charts.*
+## 💡 About Me
+- 🧠 Building **Applied GenAI systems** and **agentic workflows**
+- ⚙️ Focused on **automation, decision pipelines, and LLM integration**
+- 🧩 Interested in systems that solve **real operational problems**
+- 💼 Open to roles in **AI Systems, Automation, and Applied AI Engineering**
+- 🌍 Based in **India** | Open to remote & global collaboration
 
 ---
 
-### 🛠️ Skills & Tools  
+## 🧩 Featured Projects
 
-| **Languages** | **Frameworks / Tools** | **Focus Areas** |
-|:---------------|:----------------------|:----------------|
-| Python 🐍 | Streamlit, Flask, React Native | Generative AI |
-| HTML, CSS, JS | Git & GitHub | AI Image Generation |
-| Markdown | Canva, Notion | Automation & Productivity |
+### 📄 [AI PDF Assistant](https://github.com/Varun-Wagle/ai-pdf-assistant)
+A production-ready application that allows users to upload PDFs and ask natural-language questions, powered by **GROQ LLMs**.  
+**Tech:** Python, Streamlit, LLM APIs  
+**Status:** ✅ v1.0 Released
 
 ---
 
-### 🌐 Connect With Me  
+### 🧠 [Nuvora AI](https://github.com/Varun-Wagle/nuvora-ai)
+A flagship **personal learning & growth assistant** designed around three pillars:  
+**Study Companion · Language Coach · Daily Inspiration**
 
+This repository represents the **active design phase** of the system, with a clean rebuild planned using modern mobile and backend architecture.  
+**Status:** 🚧 Design & Planning Phase
+
+---
+
+### 💼 [AI Lead Ops Suite](https://github.com/Varun-Wagle/ai-lead-ops-suite)
+A production-grade **AI-powered lead management and follow-up system** built with **n8n and Groq LLMs**.
+
+Capabilities include:
+- Hybrid rule-based + AI lead scoring
+- Automated email replies & follow-ups
+- Hot-lead alerts and weekly analytics
+- Fully orchestrated, self-hosted workflows
+
+**Tech:** n8n, Groq LLM, Google APIs  
+**Status:** ✅ v1.0 Released
+
+---
+
+## 🔒 Private Work
+
+### 🧠 Intelligent Document Intelligence Platform *(Private)*
+A domain-specific AI system focused on **structured document extraction, conservative inference, and explainable decision logic**.
+
+This project is kept private due to its **business-sensitive nature**, but architecture and design discussions are available on request.
+
+---
+
+## 🛠 Skills & Focus Areas
+
+| Area | Tools & Technologies |
+|-----|---------------------|
+| Programming | Python |
+| AI / LLMs | Groq, Gemini, Prompt Engineering |
+| Automation | n8n, APIs, Webhooks |
+| Backend | FastAPI (planned), Flask |
+| Frontend | Streamlit, React Native (Expo) |
+| Systems | Workflow orchestration, decision pipelines |
+| Dev Practices | Git, GitHub, modular design |
+
+---
+
+## 🌐 Connect With Me
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/varunwagle/)
-- 📸 [Instagram (AI Art)](https://www.instagram.com/talesandinkbyvarun/)
-- 🐦 [Twitter (X)](https://x.com/DrunkenGrape_IN)
-- 💻 [GitHub](https://github.com/VarunWagle)  
-- ✉️ Reach out: *Looking for collaboration & AI-based opportunities*
+- 💻 [GitHub](https://github.com/Varun-Wagle)
 
 ---
 
-### ✨ “Learning by Building”  
-Every project teaches something new — from debugging code to generating creative AI art.  
-**Follow my journey** as I explore how AI can inspire, create, and make a difference. 🌟  
+### ✨ Philosophy
+I believe strong AI systems are built by **thinking clearly first**, designing carefully, and shipping only what can be trusted.
 
----
+This profile reflects that approach.
